@@ -1,5 +1,3 @@
-import java.lang.reflect.Array;
-
 public class PracticeProblems {
    public static int countOccurances(int[] arr, int n) {
       int Occurances = 0;
